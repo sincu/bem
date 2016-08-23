@@ -1,0 +1,25 @@
+{
+  "name": "beminar-1",
+  "version": "1.0.0",
+  "description": "Description and video can be found on [bem.info](https://ru.bem.info/talks/beminar-css-2015/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bem-events/beminar-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bem-events/beminar-1/issues"
+  },
+  "homepage": "https://github.com/bem-events/beminar-1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2"
+  }
+}

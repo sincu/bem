@@ -1,0 +1,29 @@
+[33mcommit cc48021a3c66ba2812a0d1eee73721e887b077cf[m
+Author: Dima Belitsky <dbelitsky@ya.ru>
+Date:   Mon Apr 27 19:48:55 2015 +0300
+
+    bugfixes
+
+[33mcommit af682eedf03353c26c361bc79ab75ef10120b917[m
+Author: Dima Belitsky <dbelitsky@ya.ru>
+Date:   Fri Apr 17 14:46:30 2015 +0300
+
+    readme update
+
+[33mcommit 09413cd8f521fe44c92f0e85bccb987dca099609[m
+Author: Dima Belitsky <dbelitsky@ya.ru>
+Date:   Fri Apr 17 14:42:03 2015 +0300
+
+    Readme added
+
+[33mcommit 65541d3289016dd7572dc7bc90f19e9cfaebe0ce[m
+Author: Dima Belitsky <dbelitsky@ya.ru>
+Date:   Fri Apr 17 14:36:01 2015 +0300
+
+    markup fixed, files relocated properly, added redefinition levels
+
+[33mcommit d056d654bfaa5396ec3fbfb2aeb6584717691460[m
+Author: Dima Belitsky <dbelitsky@ya.ru>
+Date:   Thu Apr 16 21:59:46 2015 +0300
+
+    buggy markup added
